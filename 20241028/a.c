@@ -8,8 +8,7 @@ int main(void) {
     puts("比較したい数2つ目の数字を入力して下さい");
     scanf("%d",&b);
 
-    while (j)
-    {
+    while (j) {
         j = a % b;
         a = b;
         b = j;
