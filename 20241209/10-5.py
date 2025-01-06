@@ -15,4 +15,8 @@ plt.plot(t,sig)
 plt.grid()
 plt.figure()
 plt.plot(fk, abs(fsig))
+<<<<<<< HEAD
 plt.grid()
+=======
+plt.grid()
+>>>>>>> 7763b3754bfeeb09aa6aca5c5133b2e3e01a2aaa
